@@ -81,10 +81,6 @@ def royal_straight_check(args)
 	return 0
 end
 
-def sum_num(args)
-	return args[1]+args[3]+args[5]+args[7]+args[9]
-end
-
 def change_card(args,change_args,deck)
 	change_args.sort
 	new_args = []
