@@ -6,7 +6,6 @@ numbers = []
 counter = []
 straight_check = cards
 suit = [] #S,D,H,C
-key = "r"
 
 card_initialize(deck)
 deck.shuffle!
